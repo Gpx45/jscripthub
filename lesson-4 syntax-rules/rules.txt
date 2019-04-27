@@ -1,0 +1,6 @@
+1. ECMAscript is case sensitive.
+2. Is delimited by { } 
+3. Statements need to end in a semi colon
+4. Whitespace is not sensitive.
+5. Comments can be done the following ways, Multi line comment: /**/ OR if  you want a single line comment: // 
+6. JS runs from top to bottom. 
